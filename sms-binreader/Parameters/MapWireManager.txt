@@ -1,0 +1,13 @@
+Wire Manager
+Character STRING (null)
+MaxObjs INT (null)
+Unknown INT (null)
+TopWidth FLOAT (null)
+UndersideWidth FLOAT (null)
+R INT (null)
+G INT (null)
+B INT (null)
+UndersideR INT (null)
+UndersideG INT (null)
+UndersideB INT (null)
+Default COMMENT true

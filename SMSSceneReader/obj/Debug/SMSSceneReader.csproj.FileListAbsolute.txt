@@ -1,0 +1,198 @@
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\SMSSceneReader.exe.config
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\SMSSceneReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\BMDReader.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\OpenTK.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\OpenTK.GLControl.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\System.ValueTuple.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\BMDReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\OpenTK.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\OpenTK.GLControl.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\bin\Debug\System.ValueTuple.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.AboutBox1.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ActorSelect.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.BMGEditor.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.CameraDemoEditor.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Find.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.GameParamForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ArrayPrompt.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.KeyFramePrompt.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.MainForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.NameCheck.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ObjectWizardForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.paramEditor.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Preview.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ProgressForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Properties.Resources.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.RallyForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Settings.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.SizeSelect.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.StringInput.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Translate_Buddy.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.Subdivide.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.VectorInput.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.WarpEdit.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.WarpFinder.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.CopyComplete
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\SMSSceneReader.exe.config
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\SMSSceneReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\BMDReader.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\OpenTK.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\OpenTK.GLControl.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\System.ValueTuple.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\BMDReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\OpenTK.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\OpenTK.GLControl.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\System.ValueTuple.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.AboutBox1.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ActorSelect.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.BMGEditor.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.CameraDemoEditor.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Find.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.GameParamForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ArrayPrompt.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.KeyFramePrompt.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.MainForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.NameCheck.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ObjectWizardForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.paramEditor.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Preview.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ProgressForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Properties.Resources.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.RallyForm.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Settings.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.SizeSelect.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.StringInput.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Translate_Buddy.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.Subdivide.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.VectorInput.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.WarpEdit.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.WarpFinder.resources
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.CopyComplete
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\SMSSceneReader.exe.config
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\SMSSceneReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\BMDReader.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\OpenTK.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\OpenTK.GLControl.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\System.ValueTuple.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\BMDReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\OpenTK.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\OpenTK.GLControl.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\bin\Debug\System.ValueTuple.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.AboutBox1.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ActorSelect.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.BMGEditor.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.CameraDemoEditor.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Find.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.GameParamForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ArrayPrompt.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.KeyFramePrompt.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.MainForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.NameCheck.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ObjectWizardForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.paramEditor.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Preview.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.ProgressForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Properties.Resources.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.RallyForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Settings.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.SizeSelect.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.StringInput.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.Translate_Buddy.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.Subdivide.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSRallyEditor.VectorInput.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.WarpEdit.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.WarpFinder.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.CopyComplete
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\SMSSceneReader\obj\Debug\SMSSceneReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader 2\SMSSceneReader.exe.config
+C:\Users\chris\Desktop\SMSHacking\Scene Reader 2\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMSHacking\Scene Reader 2\SMSSceneReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Scene Reader 2\SMSSceneReader.exe.config
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Scene Reader 2\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Scene Reader 2\SMSSceneReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.AboutBox1.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.ActorSelect.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.BMGEditor.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.CameraDemoEditor.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.Find.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.GameParamForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.ArrayPrompt.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.KeyFramePrompt.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.MainForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSRallyEditor.NameCheck.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.ObjectWizardForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.paramEditor.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.Preview.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.ProgressForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.Properties.Resources.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSRallyEditor.RallyForm.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.Settings.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.SizeSelect.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.StringInput.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.Translate_Buddy.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSRallyEditor.Subdivide.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSRallyEditor.VectorInput.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.WarpEdit.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.WarpFinder.resources
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.CopyComplete
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.pdb

@@ -1,0 +1,6 @@
+Base Map Object Manager
+Character STRING (null)
+MaxObjs INT (null)
+ClipRadius FLOAT (null)
+FarClip FLOAT (null)
+Default COMMENT true

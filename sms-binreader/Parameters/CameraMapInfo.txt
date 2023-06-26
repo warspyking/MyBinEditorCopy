@@ -1,0 +1,12 @@
+Camera Map Info
+X FLOAT
+Y FLOAT
+Z FLOAT
+Pitch FLOAT
+Yaw FLOAT
+Roll FLOAT
+Type INT
+Unknown INT
+Unknown INT
+DisplayModel COMMENT mapobj/mushroom1up.bmd
+ForceDrawMode COMMENT Both

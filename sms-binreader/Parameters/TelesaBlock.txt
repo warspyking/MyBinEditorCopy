@@ -1,0 +1,13 @@
+Boo Block
+X FLOAT "(null)"
+Y FLOAT "(null)"
+Z FLOAT "(null)"
+Pitch FLOAT "(null)"
+Yaw FLOAT "(null)"
+Roll FLOAT "(null)"
+ScaleX FLOAT "(null)"
+ScaleY FLOAT "(null)"
+ScaleZ FLOAT "(null)"
+Character STRING "(null)"
+!!! INT "(null)"
+Model STRING "(null)"

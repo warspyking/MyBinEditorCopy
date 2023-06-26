@@ -1,0 +1,80 @@
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\System.ValueTuple.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\bin\Debug\System.ValueTuple.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\obj\Debug\BinReader.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\obj\Debug\BinReader.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\obj\Debug\BinReader.csproj.CopyComplete
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\obj\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader OG SOURCE\sms-binreader\obj\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\System.ValueTuple.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\System.ValueTuple.xml
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.csproj.CopyComplete
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMS Hacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\System.ValueTuple.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\bin\Debug\System.ValueTuple.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.csproj.CopyComplete
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader NEW SOURCE\sms-binreader\obj\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\BinReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\System.ValueTuple.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\bin\Debug\System.ValueTuple.xml
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\obj\Debug\BinReader.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\obj\Debug\BinReader.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\obj\Debug\BinReader.csproj.CopyComplete
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\obj\Debug\BinReader.dll
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\sms-binreader\obj\Debug\BinReader.pdb

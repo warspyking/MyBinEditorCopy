@@ -1,0 +1,16 @@
+Mario
+X FLOAT (null)
+Y FLOAT (null)
+Z FLOAT (null)
+Pitch FLOAT (null)
+Yaw FLOAT (null)
+Roll FLOAT (null)
+ScaleX FLOAT (null)
+ScaleY FLOAT (null)
+ScaleZ FLOAT (null)
+Character STRING (null)
+!!! INT (null)
+FLUDDWaterLvl INT (null)
+FLUDDToggle INT (null)
+DisplayModel COMMENT mapobj/mariocap.bmd
+Default COMMENT true
