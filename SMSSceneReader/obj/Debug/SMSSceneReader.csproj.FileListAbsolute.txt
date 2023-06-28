@@ -196,3 +196,6 @@ C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\ob
 C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.csproj.CopyComplete
 C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.exe
 C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Modified\SMSSceneReader\obj\Debug\SMSSceneReader.pdb
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Scene Reader 2.0\SMSSceneReader.exe.config
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Scene Reader 2.0\SMSSceneReader.exe
+C:\Users\chris\Desktop\SMSHacking\Scene Reader Source\Scene Reader 2.0\SMSSceneReader.pdb

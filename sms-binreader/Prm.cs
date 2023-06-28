@@ -216,7 +216,6 @@ namespace SMSReader
     //SMS Parameter file
     public class PrmFile
     {
-        private FileStream file;    //File Stream
         private Dictionary<string, PrmData> paramList = new Dictionary<string, PrmData>();  //Parameters
 
         private string path;
@@ -236,7 +235,6 @@ namespace SMSReader
         public PrmFile()
         {
             paramList = new Dictionary<string, PrmData>();
-            file = null;
         }
 
         /*
@@ -245,7 +243,6 @@ namespace SMSReader
         public PrmFile(string filename)
         {
             paramList = new Dictionary<string, PrmData>();
-            file = null;
             Load(filename);
         }
 
@@ -258,7 +255,7 @@ namespace SMSReader
 
             if (!File.Exists(filename))
                 return;
-            file = new FileStream(filename, FileMode.Open, FileAccess.Read);
+            FileStream file = new FileStream(filename, FileMode.Open, FileAccess.Read);
 
             int count = Data.ReadInt32(file);
             for (int i = 0; i < count; i++)
@@ -271,6 +268,7 @@ namespace SMSReader
 
                 paramList.Add(key, dati);
             }
+            file.Close();
         }
 
         /*
@@ -289,9 +287,7 @@ namespace SMSReader
          */
         public void Save(string filename)
         {
-            if (file != null)
-                file.Close();
-            file = new FileStream(filename, FileMode.Create, FileAccess.ReadWrite);
+            FileStream file = new FileStream(filename, FileMode.Create, FileAccess.ReadWrite);
             path = filename;
             Save();
         }
@@ -301,11 +297,9 @@ namespace SMSReader
          */
         public void Save()
         {
-            if (file == null)
+            if (string.IsNullOrEmpty(path));
                 return;
-            string filename = file.Name;
-            file.Close();
-            file = new FileStream(filename, FileMode.Open, FileAccess.ReadWrite);
+            FileStream file = new FileStream(path, FileMode.Open, FileAccess.ReadWrite);
             file.SetLength(GetSize());
             file.Seek(0, SeekOrigin.Begin);
             Data.WriteInt32(file, paramList.Count);
@@ -316,9 +310,7 @@ namespace SMSReader
                 Data.WriteString(file, kvp.Key, Encoding.GetEncoding("shift-jis"), false);
                 kvp.Value.Write(file);
             }
-            file.Flush();
             file.Close();
-            file = new FileStream(filename, FileMode.Open, FileAccess.Read);
         }
 
         public void SetSize(string key, uint size)
@@ -369,8 +361,6 @@ namespace SMSReader
 
         public void UnLoad()
         {
-            if (file != null)
-                file.Close();
             paramList.Clear();
         }
     }

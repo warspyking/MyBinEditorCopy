@@ -135,7 +135,7 @@ namespace SMSReader
     /// </summary>
     public class SMSScene
     {
-        public const string BIN_PARAMPATH = ".\\Parameters\\";
+        public const string BIN_PARAMPATH = "C:\\Users\\chris\\Desktop\\SMSHacking\\Scene Reader\\Parameters\\";
 
         public int error;
 

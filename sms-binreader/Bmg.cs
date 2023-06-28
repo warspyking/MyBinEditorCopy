@@ -56,7 +56,7 @@ namespace SMSReader
 
         private UInt16 nSize;
 
-        FileStream file;
+        string filepath;
 
         /* Contructor, loads file */
         public BmgFile(string filepath)
@@ -64,7 +64,7 @@ namespace SMSReader
             StringTable = new List<string>();
             StringFlags = new List<BMGFlags>();
 
-            file = new FileStream(filepath, FileMode.Open);
+            this.filepath = filepath;
             Read();
         }
 
@@ -139,6 +139,7 @@ namespace SMSReader
             BMGFlags[] strFlags = null;
 
             //Load disposable header information
+            FileStream file = new FileStream(filepath, FileMode.Open, FileAccess.Read);
             string magic = Data.ReadString(file, 8);
 
             if (magic != MAGIC)
@@ -243,21 +244,18 @@ namespace SMSReader
                     default: throw new NotImplementedException("Unknown BMG section.");
                 }
             }
+            file.Close();
         }
         /* Save to different file */
         public void Save(string filepath)
         {
-            if (file != null)
-                file.Close();
-            file = new FileStream(filepath, FileMode.Create);
+            this.filepath = filepath;
             Save();
         }
         /* Saves BMG File */
         public void Save()
         {
-            string filename = file.Name;
-            file.Close();
-            file = new FileStream(filename, FileMode.Open, FileAccess.ReadWrite);
+            FileStream file = new FileStream(filepath, FileMode.Open, FileAccess.ReadWrite);
             long size = GetFileSize();
             file.SetLength(size);
             file.Seek(0, SeekOrigin.Begin);
@@ -321,16 +319,12 @@ namespace SMSReader
             //Align to 32-byte block
             while (file.Position % 32 != 0)
                 file.WriteByte(0);
-            file.Flush();
             file.Close();
-            file = new FileStream(filename, FileMode.Open, FileAccess.Read);
         }
 
         /* Close file and clean up */
         public void Close()
         {
-            file.Close();
-            file = null;
             StringTable = null;
             StringFlags = null;
         }

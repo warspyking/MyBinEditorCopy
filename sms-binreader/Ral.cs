@@ -304,7 +304,7 @@ namespace SMSReader
     {
         private readonly byte[] NULLDAT = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };     //Null data constant
 
-        private FileStream file;    //File Stream
+        private string filename; //File name
 
         private List<Rail> rails;   //Rail array
 
@@ -322,7 +322,6 @@ namespace SMSReader
         public RalFile()
         {
             rails = new List<Rail>();
-            file = null;
         }
 
         /*
@@ -331,7 +330,6 @@ namespace SMSReader
         public RalFile(string filename)
         {
             rails = new List<Rail>();
-            file = null;
             Load(filename);
         }
 
@@ -340,16 +338,14 @@ namespace SMSReader
          */
         public void NewFile(string filename)
         {
-            if (file != null)
-                file.Close();
 
-            file = new FileStream(filename, FileMode.Create, FileAccess.ReadWrite);
+            FileStream file = new FileStream(filename, FileMode.Create, FileAccess.ReadWrite);
+            this.filename = filename;
 
             rails.Clear();
             file.Write(NULLDAT, 0, 12);
             file.Flush();
             file.Close();
-            file = new FileStream(filename, FileMode.Create, FileAccess.Read);
         }
 
         /*
@@ -357,10 +353,9 @@ namespace SMSReader
          */
         public void Load(string filename)
         {
-            if (file != null)
-                file.Close();
 
-            file = new FileStream(filename, FileMode.Open, FileAccess.Read);
+            FileStream file = new FileStream(filename, FileMode.Open, FileAccess.Read);
+            this.filename = filename;
 
             bool done = false;
             while (!done)
@@ -370,6 +365,7 @@ namespace SMSReader
                     break;
                 rails.Add(rl);
             }
+            file.Close();
         }
 
         /*
@@ -377,11 +373,9 @@ namespace SMSReader
          */
         public void Save()
         {
-            if (file == null)
+            if (string.IsNullOrEmpty(filename))
                 return;
-            string filename = file.Name;
-            file.Close();
-            file = new FileStream(filename, FileMode.Open, FileAccess.ReadWrite);
+            FileStream file = new FileStream(filename, FileMode.Open, FileAccess.ReadWrite);
 
             long hbuffer = GetHeaderStart();
             long nbuffer = GetNameStart();
@@ -396,9 +390,7 @@ namespace SMSReader
             for (int i = 0; i < 12; i++)
                 file.WriteByte(0);
 
-            file.Flush();
             file.Close();
-            file = new FileStream(filename, FileMode.Open, FileAccess.Read);
         }
 
         /*
@@ -406,10 +398,8 @@ namespace SMSReader
          */
         public void SaveAs(string filename)
         {
-            if (file != null)
-                file.Close();
 
-            file = new FileStream(filename, FileMode.Create, FileAccess.ReadWrite);
+            FileStream file = new FileStream(filename, FileMode.Create, FileAccess.ReadWrite);
 
             long hbuffer = GetHeaderStart();
             long nbuffer = GetNameStart();
@@ -424,9 +414,7 @@ namespace SMSReader
             for (int i = 0; i < 12; i++)
                 file.WriteByte(0);
 
-            file.Flush();
             file.Close();
-            file = new FileStream(filename, FileMode.Create, FileAccess.Read);
         }
 
         /*
@@ -503,8 +491,6 @@ namespace SMSReader
          */
         public void UnLoad()
         {
-            if (file != null)
-                file.Close();
             rails.Clear();
         }
 
